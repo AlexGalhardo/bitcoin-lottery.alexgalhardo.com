@@ -1,5 +1,5 @@
 <div align="center">
-	<h1 align="center"><a href="https://bitcoin-lotery.alexgalhardo.com/" target="_blank">bitcoin-lotery.alexgalhardo.com</a></h1>
+	<h1 align="center"><a href="https://bitcoin-lottery.alexgalhardo.com/" target="_blank">bitcoin-lottery.alexgalhardo.com</a></h1>
 </div>
 
 ## Introduction
