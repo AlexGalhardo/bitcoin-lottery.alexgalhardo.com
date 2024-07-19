@@ -11,15 +11,15 @@
 
 1. Clone repository
 ```bash
-git clone git@github.com:AlexGalhardo/bitcoin-lottery.git
+git clone git@github.com:AlexGalhardo/bitcoin-lottery.alexgalhardo.com.git
 ```
 
 2. Enter repository
 ```bash
-cd bitcoin-lottery
+cd bitcoin-lottery.alexgalhardo.com
 ```
 
-3. Up your Http Server (click to open index.html in your browser)
+3. Up your Http Server (or click to open index.html in your browser)
 ```bash
 lite-server
 ```
